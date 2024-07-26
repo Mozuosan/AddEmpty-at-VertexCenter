@@ -1,3 +1,6 @@
+Blenderアドオン AddEmpty at VertexCenter.py
+動作確認環境：Win 11, Blender 4.0.2
+
 内容：編集モードで選択されたふたつの頂点の中央のグローバル座標を記憶しEmptyを配置します。
 Emptyの配置はオブジェクトモードで行います
 
